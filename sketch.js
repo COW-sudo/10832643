@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://cow-sudo.github.io/aifrog/';
+let soundModelURL = ' https://cow-sudo.github.io/10832643/';
 
 
 function preload() {
